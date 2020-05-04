@@ -1,2 +1,3 @@
 # hello-world2
-How to write code in Github
+
+Hi fellow public health enthusiasts! Let us do some work! 
